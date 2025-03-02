@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* .rounded-button {
+    @apply rounded-full;
+  }
+  
+  .bg-custom {
+    @apply bg-blue-500;
+  } */
+  
+  .rounded-button {
+    border-radius: 5px;
+  }
+  
+  .bg-custom {
+    background-color: blue;
+  }
+  
